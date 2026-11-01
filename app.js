@@ -2,16 +2,16 @@
 
 // User-supplied scene and evidence images. Keep file paths relative for offline use.
 const images = {
-  office: 'assets/detective-office.png',
-  house: 'assets/briar-lane-house.png',
-  hospital: 'assets/briar-hospital.png',
-  detective: 'assets/jonah-confession-file.png',
-  camera: 'assets/camera-and-negative.png',
-  letter: 'assets/evelyn-unsent-letter.png',
-  confession: 'assets/jonah-confession-file.png',
-  evelynPortrait: 'assets/characters/evelyn/evelyn-portrait.png',
-  patientPortrait: 'assets/characters/patient-17/patient-17-portrait.png',
-  jonahPortrait: 'assets/characters/jonah-vale/jonah-vale-portrait.png'
+  office: 'detective-office.png',
+  house: 'briar-lane-house.png',
+  hospital: 'briar-hospital.png',
+  detective: 'jonah-confession-file.png',
+  camera: 'camera-and-negative.png',
+  letter: 'evelyn-unsent-letter.png',
+  confession: 'jonah-confession-file.png',
+  evelynPortrait: 'evelyn-portrait.png',
+  patientPortrait: 'patient-17-portrait.png',
+  jonahPortrait: 'jonah-vale-portrait.png'
 };
 
 const cases = [
